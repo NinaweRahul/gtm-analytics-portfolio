@@ -1,0 +1,52 @@
+
+WEEK 1: ADVERTISER FUNNEL DIAGNOSTICS - KEY FINDINGS
+======================================================================
+
+Generated: 2026-03-14 22:34
+
+DATASET OVERVIEW:
+- Total Accounts: 850
+- Total Campaigns: 9
+- Total Ad Spend: $49,664,021.74
+- Date Range: Last 90 days
+
+KEY INSIGHTS:
+
+1. BIGGEST FUNNEL LEAK
+   Stage: Signup → Campaign
+   Accounts Lost: 449 (52.8% of signups)
+
+2. SEGMENT PERFORMANCE
+   Best: Enterprise (86.9% conversion)
+   Worst: SMB (39.3% conversion)
+   Gap: 47.6 percentage points
+
+3. PRODUCT ENGAGEMENT
+   Best CTR: Search (4.97%)
+   Worst CTR: Display (1.25%)
+
+4. ACTIVATION METRICS
+   Rate: 47.2%
+   Status: Below benchmark (70%)
+
+BUSINESS RECOMMENDATIONS:
+
+1. Improve Signup → Campaign transition
+   - Simplify user experience at this stage
+   - Add in-app guidance and templates
+
+2. Segment-specific onboarding
+   - SMB: Focus on activation improvements
+   - Enterprise: Study best practices to replicate
+
+3. Product promotion
+   - Highlight Search product benefits earlier
+   - Improve Display campaign setup flow
+
+VISUALIZATIONS CREATED:
+- Overall funnel chart (week1_overall_funnel.png)
+- Segment comparison (week1_segment_funnels.png)
+- Drop-off analysis (week1_dropoffs.png)
+- Product performance heatmap (week1_product_heatmap.png)
+
+======================================================================
