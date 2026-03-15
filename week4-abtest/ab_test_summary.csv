@@ -1,0 +1,4 @@
+metric,winner,lift_percent,significant,recommendation
+roas,Manual,-1.9311288242279467,False,Keep Testing
+cvr,Manual,-0.3608585230177242,False,Keep Testing
+cpc,Auto,0.6001019315846869,False,Keep Testing
