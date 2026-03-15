@@ -144,7 +144,7 @@ gtm-analytics-series/
  
 ---
 
-## 📊 Key Findings & Business Impact
+## Key Findings & Business Impact
  
 ### Funnel Optimization Opportunities
 - **40% drop-off** at signup → campaign creation
