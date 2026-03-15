@@ -12,12 +12,20 @@ ENV/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
+# VS Code
+.vscode/
+*.code-workspace
+
 # Data files
 shared-data/*.csv
 shared-data/*.xlsx
 week*/data/*.csv
 *.sqlite
 *.db
+
+# Database dumps (if any)
+*.sql.backup
+*.dump
 
 # Credentials - IMPORTANT!
 .env
@@ -29,6 +37,7 @@ week*/data/*.csv
 Thumbs.db
 *.swp
 *.swo
+desktop.ini
 
 # IDE
 .vscode/settings.json
@@ -36,3 +45,8 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Temporary files
+*.tmp
+*.log
+~$*
